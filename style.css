@@ -1,0 +1,215 @@
+.header__container {
+    border: 1px solid black;
+    width: 1440px;
+    height: 1024px;
+    background-color: black;
+    color: white;
+    position: relative;
+}
+
+
+.image {
+    margin: 0;
+width: 1440px;
+height: 1024px;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
+
+.header .header__container .header__list .block {
+    display: flex;
+}
+
+.header .header__container .header__list .icons {
+    display: flex;
+}
+
+.header .header__container .header__list .first {
+    width: 38px;
+    height: 28px;
+    margin-top: 58px;
+    margin-left: 5px;
+
+}
+
+.header .header__container .header__list .first:first-child {
+    margin-left: 120px;
+}
+
+.header .header__container .header__list .GROUP {
+    margin-top: 10px;
+    margin-left: 400px;
+
+}
+
+
+.header .header__container .header__list .title {
+    margin-left: 370px;
+    margin-top: 30px;
+}
+
+.header .header__container .header__list .block2 {
+    display: flex;
+}
+
+.header .header__container .header__list .description-name {
+    width: 285px;
+    height: 56px;
+    margin-top: 200px;
+    margin-left: 125px;
+}
+
+
+
+.header .header__container .header__list .circle-radius {
+    width: 132px;
+    height: 132px;
+border: 6px solid #E93E7D;
+border-radius: 50%;
+margin-top: 150px;
+margin-left: 70px;
+}
+
+.header .header__container .header__list .mask {
+width: 100px;
+height: 100px;
+padding: 15px;
+}
+
+.header .header__container .header__list .block3 {
+    display: flex;
+}
+
+
+.header .header__container .header__list .Pol-6 {
+width: 30px;
+height: 29px;
+margin-left: 79px;
+margin-bottom: 10px;
+margin-right: 10px;
+}
+
+.header .header__container .header__list .Rec {
+    width: 26px;
+    height: 26px;
+    margin-left: 80px;
+}
+
+
+.header .header__container .header__list .block4 {
+    position: absolute;
+    width: 330px;
+    height: 330px;
+    margin-left: 1000px;
+    border: 8px solid #E93E7D;
+    margin-top: 300px;
+    
+
+}
+
+.header .header__container .header__list .image {
+    padding: 10px;
+    width: 300px;
+    height: 250px;
+    margin-top: -120px;
+}
+
+header .header__container .header__list .container {
+    display: flex;
+ 
+}
+
+.header .header__container .header__list .square {
+    margin-top: 50px;
+    width: 78px;
+    height: 78px;
+    border: 1px solid #E93E7D;
+    background-color: #E93E7D;
+    margin-left: 70px;
+   display: flex;
+   align-items: center;
+   justify-content: end;
+   
+   
+
+   
+}
+
+.header .header__container .header__list .circle {
+    width: 78px;
+    height: 78px;
+    margin-top: 50px;
+    border: 1px solid #E93E7D;
+    background-color: #E93E7D;
+    border-radius: 50%;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    
+
+    
+}
+
+.header .header__container .header__list .Polig{
+margin: 0;
+margin-top: 50px;
+margin-left: -15px;
+}
+
+.header .header__container .header__list .block5 {
+    border: 6px solid #E93E7D;
+    width: 132px;
+    height: 132px;
+    margin-left: 270px;
+    margin-top: 120px;
+}
+
+.header .header__container .header__list .mask2 {
+    height: 125px;
+}
+
+.header .header__container .header__list .face {
+ position: absolute;
+    margin-left: 500px;
+    margin-top: 1px;
+}
+
+.header .header__container .header__list .block6 {
+    display: flex;
+    border: 1px solid #1a1a19;
+    height: 110px;
+    margin-top: 123px;
+}
+
+.header .header__container .header__list .items {
+   width: 363px;
+   height: 21px;
+   margin-top: 40px;
+   margin-left: 120px;
+   
+}
+
+.header .header__container .header__list .new-game {
+    width: 161px;
+    height: 20px;
+    margin-top: 40px;
+    margin-left: 158px;
+}
+
+
+.header .header__container .header__list .start {
+    width: 26px;
+    height: 26px;
+    margin-left: 15px;
+    margin-top: 37px;
+}
+
+.header .header__container .header__list .group3 {
+    width: 234px;
+    height: 23px;
+    margin-top: 40px;
+    margin-left: 280px;
+}
